@@ -1,8 +1,12 @@
 <?php
 
-////App\Models\Adverts\Advert;
+/*
+*
+https://github.com/barryvdh/laravel-cors
+https://fractal.thephpleague.com/installation/
+*/
 
-namespace App\Models\Adverts;
+namespace App\ModelSample;
 
 use Illuminate\Database\Eloquent\Model;
 
